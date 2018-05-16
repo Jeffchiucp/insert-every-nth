@@ -1,0 +1,19 @@
+{
+  "name": "insert-every-nth",
+  "version": "0.1.0",
+  "description": "A package that inserts one string into another string at every nth character",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anselb/insert-every-nth.git"
+  },
+  "author": "Ansel <iamansel@gmail.com> (https://github.com/anselb)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anselb/insert-every-nth/issues"
+  },
+  "homepage": "https://github.com/anselb/insert-every-nth#readme"
+}
